@@ -17,8 +17,8 @@ Se você é um estudante, colaborador ou apenas curioso por tecnologia, sinta-se
 
 ## 🚀 Tecnologias Utilizadas
 
-O repositório inclui materiais desenvolvidos usando:
-- **Java/Python/C++** *(especificar conforme sua linguagem de LP2)*.
+O repositório inclui materiais desenvolvidos com:
+- **Java** para todos os projetos e exercícios de Linguagem de Programação 2 (LP2).
 - SQL para Banco de Dados.
 - Estruturas de Dados como listas, pilhas, filas, árvores, entre outras.
 
@@ -28,7 +28,7 @@ O repositório inclui materiais desenvolvidos usando:
 
 Organizei o conteúdo de forma clara e acessível:
 
-- `lp2/` : Implementações e exercícios de Linguagem de Programação 2.
+- `lp2/` : Implementações e exercícios em **Java**.
 - `estruturas-de-dados/` : Resumos, exemplos e códigos sobre estruturas como listas encadeadas, árvores binárias, etc.
 - `banco-de-dados/` : Consultas SQL, scripts e modelos de banco de dados.
 
